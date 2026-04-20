@@ -22,6 +22,10 @@
 - **Event Extraction**: Built-in logic for parsing sports, calendars, and community events from structured search metadata.
 - **Professional Architecture**: Production-ready modular design with standardized logging, error handling, and `dynaconf` configuration management.
 
+## 📚 Documentation
+
+For a deep dive into the project structure, configuration, and how to extend it, check out our **[Tutorial](docs/tutorial.md)**.
+
 ## 🛠️ Tech Stack
 
 - **Core**: Python 3.10+, Asynchronous execution with `asyncio` & `aiohttp`.
