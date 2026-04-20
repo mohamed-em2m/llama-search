@@ -1,0 +1,12 @@
+.git
+.github
+__pycache__
+*.pyc
+.pytest_cache/
+.coverage
+coverage.xml
+tests/
+.env
+.secrets.toml
+docs/
+assets/
