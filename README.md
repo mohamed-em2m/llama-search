@@ -1,5 +1,9 @@
 # llama-search
 
+<p align="center">
+  <img src="assets/llama-search.png" alt="llama-search logo" width="600">
+</p>
+
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/mohamed-em2m/llm-search-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/mohamed-em2m/llm-search-tool/actions/workflows/ci.yml)
