@@ -7,6 +7,7 @@ COPY --from=ghcr.io/astral-sh/uv:latest /uv /bin/uv
 
 # Copy project files
 COPY pyproject.toml .
+COPY uv.lock .
 COPY README.md .
 COPY llama_search/ llama_search/
 
