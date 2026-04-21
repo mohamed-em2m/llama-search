@@ -1,4 +1,4 @@
-# 🦙 llama-search Tutorial
+# 🦙 llama-searcher Tutorial
 
 Welcome to the comprehensive tutorial for **llama-search**! This guide will take you from installation to advanced orchestration of multi-engine AI searches.
 
