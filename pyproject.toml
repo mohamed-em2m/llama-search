@@ -28,3 +28,6 @@ dependencies = [
     "pytest",
     "pytest-cov",
 ]
+
+[tool.setuptools.packages.find]
+include = ["llama_searcher*"]
