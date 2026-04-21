@@ -1,9 +1,11 @@
 [project]
-name = "llama-search"
+name = "llama-searcher"
 version = "0.1.0"
 description = "A powerful, modular RAG-orchestrator that aggregates 10+ search engines (Google, Bing, Firecrawl, Exa, Tavily) into LLM-ready markdown."
 readme = "README.md"
 requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "Mohamed Emam", email = "mohamed-em2m@users.noreply.github.com" }]
 dependencies = [
     "aiohttp",
     "httpx",

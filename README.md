@@ -1,4 +1,4 @@
-# llama-search
+# 🦙 llama-searcher
 
 <p align="center">
   <img src="assets/llama-search.png" alt="llama-search logo" width="600">
